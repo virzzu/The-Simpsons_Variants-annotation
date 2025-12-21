@@ -1,0 +1,2 @@
+# The-Simpsons_Variants-annotation
+Este repositorio es una actividad académica grupal del máster de bioinformática de la UNIR para la asignatura de genética clínica y de poblaciones.  Consiste en la anotación e interpretación de variantes genómicas entre los personajes de Los Simpsons.
