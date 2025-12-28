@@ -25,3 +25,26 @@ truncada o con una deleción interna grande, perdiendo dominios transmembrana o 
 Patología asociada: Deficiencia del receptor de leptina (Leptin Receptor Deficiency).
 MIM de la patología: #614963.
 Patrón de herencia: Autosómico recesivo. Se caracteriza por obesidad mórbida de inicio temprano e hipogonadismo hipogonadotrópico.
+
+
+
+1. Análisis en KEGG Pathways y Reactome
+El gen LEPR (Receptor de Leptina) es un componente central en la regulación neuroendocrina del balance energético.
+
+Ruta KEGG: Se encuentra principalmente en la ruta "Adipocytokine signaling pathway" (hsa04920). También participa en la señalización de la insulina y rutas de inflamación.
+
+Ruta Reactome: Está implicado en "Signaling by Leptin" (R-HSA-1170546).
+
+Mecanismo de Transducción: Al unirse la leptina al receptor, este activa la quinasa JAK2, que a su vez fosforila residuos de tirosina del receptor, reclutando a factores de transcripción como STAT3.
+
+2. Mecanismo Molecular de la Obesidad
+Las mutaciones en el gen LEPR producen obesidad mórbida a través de un mecanismo de disrupción del eje hipotalámico de la saciedad:
+
+Resistencia o Ausencia de Señal: La leptina es una hormona producida por el tejido adiposo que informa al cerebro sobre las reservas de grasa. Las mutaciones (como las de sentido erróneo en dominios f
+uncionales o las de splicing que truncan el receptor) impiden que la señal de la leptina llegue a las neuronas del núcleo arcuato del hipotálamo.
+
+Desequilibrio Neuronal: * Inhibición de Neuronas POMC: En condiciones normales, la leptina estimula las neuronas anorexigénicas (que quitan el hambre). Sin un receptor funcional, estas neuronas no se activan.
+
+Activación de Neuronas AgRP/NPY: El receptor defectuoso no logra inhibir estas neuronas orexigénicas (que inducen hambre), resultando en un estado de hiperfagia (hambre voraz constante).
+
+Consecuencia Metabólica: El organismo interpreta erróneamente que no hay reservas de grasa (estado de inanición), lo que reduce el gasto energético basal e incrementa masivamente la ingesta calórica, resultando en obesidad de inicio temprano.
