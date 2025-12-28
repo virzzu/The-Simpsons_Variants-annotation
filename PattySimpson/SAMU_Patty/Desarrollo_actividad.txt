@@ -1,0 +1,27 @@
+Gen afectado: LEPR (identificador Ensembl: ENSG00000116678).Leptin Receptor).
+Transcrito de referencia (Ensembl): ENST00000344610.12.
+Coordenadas hg38: La variante principal se encuentra en la localización 1:65609984 (Cromosoma 1).
+Nomenclatura c. (cDNA): c.1790G>A.
+
+Nomenclatura c. (Ensembl): ENST00000344610.12:c.1790G>A.
+Tipo de variante: Es un SNP (sustitución de un solo nucleótido).
+Efecto: Missense variant (variante de sentido erróneo).
+Cigocidad: AD=37,35 el individuo es Heterocigoto (presenta tanto el alelo de referencia como el alternativo).
+Frecuencia alélica (AF): polimorfismo (>1%)
+
+
+ID de la Proteína: ENSP00000340884.8.
+Nomenclatura p. (Proteína): p.Ser597Asn.
+Impacto Funcional (Predicciones):
+SIFT: El valor es 0.21. Al ser mayor de 0.05, se clasifica como "Tolerated" (Tolerada).
+PolyPhen: El valor es 0.059. Al estar tan cerca de 0, se clasifica como "Benign" (Benigna).
+
+
+Splice Site:
+Se predice la pérdida del sitio de splicing, lo que puede causar el salto de un exón (exon skipping) o la retención de un intrón. (UniProt): La pérdida de un exón en LEPR resultaría en una proteína
+truncada o con una deleción interna grande, perdiendo dominios transmembrana o de señalización intracelular, lo que la haría no funcional.
+
+
+Patología asociada: Deficiencia del receptor de leptina (Leptin Receptor Deficiency).
+MIM de la patología: #614963.
+Patrón de herencia: Autosómico recesivo. Se caracteriza por obesidad mórbida de inicio temprano e hipogonadismo hipogonadotrópico.
