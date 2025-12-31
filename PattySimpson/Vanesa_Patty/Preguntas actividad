@@ -1,4 +1,7 @@
 El gen afectado y las coordenadas asociadas a la/s variante/s detectada/s según hg38.
-	ENSG00000116678	
+	ENSG00000184634
 La nomenclatura de la variante en c y tipo de variante:
-ENST00000344610.12:c.1790G>A , SNP 
+ENST00000333646.11:c.629C>T, SNP 
+C	T	AD=110,108,3,0 110 lecturas del alelo C y 108 del alelo T (Heterocigoto)
+missense_variant, exón 5
+ENST00000333646.11(ENSP00000333125):p.(Ala210Val)
