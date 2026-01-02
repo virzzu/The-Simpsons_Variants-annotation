@@ -1,7 +1,12 @@
 El gen afectado y las coordenadas asociadas a la/s variante/s detectada/s según hg38.
 	ENSG00000184634
+X:71121046-71121046
 La nomenclatura de la variante en c y tipo de variante:
-ENST00000333646.11:c.629C>T, SNP 
-C	T	AD=110,108,3,0 110 lecturas del alelo C y 108 del alelo T (Heterocigoto)
-missense_variant, exón 5
+ENST00000333646.11:c.629C>T, SNV. Sustitución con cambio de sentido (missense), transición. 
+exón 5 
+C/T	AD=110,108,3,0 110 lecturas del alelo C y 108 del alelo T (Heterocigoto)
 ENST00000333646.11(ENSP00000333125):p.(Ala210Val)
+GenomAD
+	Frecuencia alelo: 0.000004553, mutación. Fi homocigóticos: 0
+ClinVar: significado incierto
+https://www.ncbi.nlm.nih.gov/snp/rs1213475397 (dbSNP) variation ID rs2519665807
