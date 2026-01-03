@@ -1,2 +1,27 @@
 Gen afectado: MED12
-Localización: X:71121046-71121046
+Coordenadas genómicas (hg38):
+chrX:71,121,046–71,121,046
+Nomenclatura en c.: NM_005120.3:c.629C>T
+Tipo de variante: SNP (Single Nucleotide Polymorphism)
+Consecuencia molecular: Missense variant
+El VEP indica un único alelo alternativo → hemicigoto (si el individuo es varón) (en mujeres habría que confirmar si es heterocigota u homocigota)
+
+Frecuencia alélica y clasificación poblacional
+- Identificador dbSNP: rs1213475397
+-- Frecuencia poblacional: gnomAD (genomas): frecuencia muy baja (AF ≪ 1%)
+-- 1000 Genomes: presente a baja frecuencia
+
+Proteína de referencia (MANE)
+Proteína: MED12
+Ensembl Protein ID: ENSP00000363193.3
+RefSeq Protein ID: NP_005111.2
+Nomenclatura en p. y efecto funcional
+- Nomenclatura proteica: NP_005111.2:p.Ala210Val
+- Cambio aminoacídico: Alanina → Valina en la posición 210
+- Tipo de efecto: Mutación missense (no sinónima)
+
+Predicciones funcionales
+- SIFT: deleterious (low confidence)
+- PolyPhen-2: benign / possibly damaging (dependiendo del transcrito)
+
+Significado clínico (ClinVar): Likely benign / Uncertain significance
