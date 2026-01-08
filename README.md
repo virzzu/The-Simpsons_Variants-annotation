@@ -1,4 +1,4 @@
-# 🧬 Anotación e interpretación de variantes
+# 🧬 Anotación e interpretación de variantes genómicas: Obesidad en personajes de Los Simpsons
 
 Este repositorio es una actividad académica grupal del máster de bioinformática de la UNIR para la asignatura de genética clínica y de poblaciones. Consiste en la **anotación e interpretación de variantes genómicas** relacionadas con la obesidad entre los personajes de la familia de *Los Simpsons*.
 
