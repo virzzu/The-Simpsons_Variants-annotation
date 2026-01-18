@@ -1,0 +1,12 @@
+METODOLOGÍA:
+
+Las variantes genéticas fueron anotadas mediante Ensembl Variant Effect Predictor (VEP) (https://www.ensembl.org/Tools/VEP) para determinar su localización genómica, 
+consecuencias moleculares y transcritos afectados. La nomenclatura HGVS y la información de referencia se verificaron en NCBI (https://www.ncbi.nlm.nih.gov) y 
+Ensembl (https://www.ensembl.org). Las características proteicas, dominios funcionales y regiones de interacción se obtuvieron a partir de UniProt
+(https://www.uniprot.org). Para la variante de tipo SNP la conservación evolutiva del residuo afectado se evaluó mediante alineamiento múltiple de secuencias con Clustal Omega
+(https://www.ebi.ac.uk/Tools/msa/clustalo/). Para la variante de tipo indel, la secuencia proteica resultante se analizó mediante BioModel para evaluar posibles cambios 
+estructurales (https://biomodel.uah.es/lab/cibertorio/analysis/trans.htm). La estructura tridimensional de la proteínas y la localización de las mutaciones se analizaron 
+utilizando AlphaFold (https://alphafold.ebi.ac.uk). Las asociaciones gen-fenotipo se consultaron en OMIM (https://www.omim.org) y la evidencia clínica en ClinVar 
+(https://www.ncbi.nlm.nih.gov/clinvar). Las rutas moleculares implicadas se estudiaron mediante KEGG Pathways (https://www.kegg.jp) y Reactome(https://reactome.org).
+
+
