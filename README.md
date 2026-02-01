@@ -2,7 +2,7 @@
 
 Este repositorio es una actividad académica grupal del máster de bioinformática de la UNIR para la asignatura de genética clínica y de poblaciones. Consiste en la **anotación e interpretación de variantes genómicas** relacionadas con la obesidad entre los personajes de la familia de *Los Simpsons*.
 
-👉🏼 Puedes ver todo el trabajo redactado y detallado en el siguiente enlace de GitHub Pages: [https://virzzu.github.io/The-Simpsons_Variants-annotation/].
+👉🏼 Puedes ver todo el trabajo redactado y detallado en el siguiente enlace de GitHub Pages: https://virzzu.github.io/The-Simpsons_Variants-annotation/.
 
 ## 🎯 Objetivos
 
